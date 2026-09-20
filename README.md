@@ -1,4 +1,4 @@
-## mofclassifier2
+## mofdiagnoster
 
 - [ft-llama](https://github.com/hiyouga/LlamaFactory): fine-tuning large language models
 - [cgcnn](https://github.com/txie-93/cgcnn)
